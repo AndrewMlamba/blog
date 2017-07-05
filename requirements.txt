@@ -1,0 +1,7 @@
+coverage==4.4.1
+Django==1.11.2
+factory-boy==2.8.1
+Faker==0.7.17
+python-dateutil==2.6.0
+pytz==2017.2
+six==1.10.0
